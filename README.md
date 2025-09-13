@@ -1,6 +1,6 @@
 # Sales Performance Dashboard
 
-![Company Logo](https://github.com/BreeMad/The-Value-of-the-Heuristic-Rotten-Tomato-Category/blob/main/opening_weekend.jpg)
+![Company Logo](https://github.com/BreeMad/Sales-Performance-Dashboard/blob/main/sales.jpg)
 
 Photo by <a href="https://unsplash.com/@smigielski?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adam Śmigielski</a> on <a href="https://unsplash.com/photos/a-person-holding-a-cell-phone-in-front-of-a-stock-chart-K5mPtONmpHM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
