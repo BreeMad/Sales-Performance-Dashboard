@@ -1,5 +1,9 @@
 # Sales Performance Dashboard
 
+![Company Logo](https://github.com/BreeMad/The-Value-of-the-Heuristic-Rotten-Tomato-Category/blob/main/opening_weekend.jpg)
+
+Photo by <a href="https://unsplash.com/@smigielski?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adam Śmigielski</a> on <a href="https://unsplash.com/photos/a-person-holding-a-cell-phone-in-front-of-a-stock-chart-K5mPtONmpHM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
 ## Objective
 Provide a clear, data-driven view of sales performance for a B2B computer hardware company by analyzing sales pipeline data from Maven Analytics.
 This dashboard helps business stakeholders:
