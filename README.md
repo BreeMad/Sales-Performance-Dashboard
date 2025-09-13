@@ -34,4 +34,13 @@ This dashboard helps business stakeholders:
 
 + Use the dashboard regularly to monitor revenue concentration and reduce risk from overreliance on a small number of accounts or agents.
 
+## Tools and Techniques
++ Power BI: Data modeling, relationships, DAX measures, interactive visuals
+
++ DAX: Created measures for revenue, win rate, average deal size, average sales cycle days, and quarter-over-quarter growth
+
++ Data Modeling: Connected multiple tables (accounts, products, sales pipeline, sales agents) into a star schema
+
++ Interactive Features: Dynamic slicers (manager, region, sector), drill-throughs, performance commentary
+
 ---
